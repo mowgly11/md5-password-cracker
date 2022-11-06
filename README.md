@@ -8,6 +8,8 @@ You can find **rockyou** wordslist already in the wordslists folder, you can cha
 
 when you run the script using `node index.js`, you will have to enter the **md5** hash that you have, and the script will hash and compare passwords with that hash. if it was found it will basically return it to your terminal, and also create a file containing that password.
 
+You can paste your wordslist on the wordslist folder then you can start working with it.
+
 **Required Packages and Tools:**
 
 * `Nodejs`
