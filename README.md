@@ -1,6 +1,6 @@
 <h1> JavaScript Nodejs Password Cracker </h1>
 
-**Guide:**
+<h3> Guide: </h3>
 
 The current version supports only **md5**
 
@@ -10,7 +10,7 @@ when you run the script using `node index.js`, you will have to enter the **md5*
 
 You can paste your wordslist on the wordslist folder then you can start working with it.
 
-**Required Packages and Tools:**
+<h3> Required Packages and Tools: </h3>
 
 * `Nodejs`
 * `md5` for hashing
