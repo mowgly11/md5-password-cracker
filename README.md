@@ -1,4 +1,4 @@
-<h1> JavaScript Nodejs Password Cracker
+<h1> JavaScript Nodejs Password Cracker </h1>
 
 **Guide:**
 
